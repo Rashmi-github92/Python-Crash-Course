@@ -1,0 +1,11 @@
+guests = ['SRK', 'Donald Trump', 'Modi']
+print("I found a bigger dinning table")
+guests.insert(0, 'Tom Cruise')
+guests.insert(2, 'Deepika')
+guests.append('Ranveer')
+print(f"Dear {guests[0]}, you're invited for dinner")
+print(f"Dear {guests[1]}, you're invited for dinner")
+print(f"Dear {guests[2]}, you're invited for dinner")
+print(f"Dear {guests[3]}, you're invited for dinner")
+print(f"Dear {guests[4]}, you're invited for dinner")
+print(f"Dear {guests[5]}, you're invited for dinner")
