@@ -9,6 +9,8 @@ print(f"Dear {guests[1]}, you're still invited for dinner!")
 del guests[0]
 del guests[0]
 print(guests)
+len(guests)
 
 
 
+ 
